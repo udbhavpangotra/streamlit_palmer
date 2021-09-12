@@ -1,2 +1,6 @@
 pandas
 streamlit
+matplotlib
+seaborn
+numpy
+PIL
