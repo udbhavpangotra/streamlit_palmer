@@ -18,7 +18,7 @@ video_bytes = video_file.read()
 video_file1 = open('ade.mp4', 'rb')
 video_bytes1 = video_file1.read()
 
-video_file2 = open('ade.mp4', 'rb')
+video_file2 = open('chin.mp4', 'rb')
 video_bytes2 = video_file2.read()
 
 st.title("Pygoscelis Penguins")
